@@ -6,7 +6,7 @@ rule CrowdStrike_CSA_220050_02_modded_gmb : commodity loader netdis modded GMB
 		copyright = "(c) 2022 CrowdStrike Inc."
 		description = "Characteristic .NET IL bytecode patterns in NetDis second-stage component"
 		reports = "CSA-220050"
-    modified_by = "GlennHD"
+    		modified_by = "GlennHD"
 		version = "202201211003"
 		last_modified = "2022-01-21"
 		malware_family = "NetDis"
